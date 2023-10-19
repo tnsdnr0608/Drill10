@@ -3,7 +3,7 @@
 # 게임 워륻의 표현
 # 두개의 layer(계층)을 갖는 게임 월드로 구성
 # objects = [] # game_world는 객체들의 list
-objects = [[], []] # depth
+objects = [[], [], []] # depth
 
 
 # 월드에 객체를 넣는 함수
